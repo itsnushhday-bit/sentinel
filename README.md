@@ -7,7 +7,7 @@ Professionals and job applicants receive a high volume of emails daily, creating
 Sentinel is a lightweight Python service that connects to a user's Gmail account. It intelligently scans incoming emails for keywords related to urgency and opportunity, sending instant desktop notifications for only the most important messages.
 
 ## 3. Demo
-https://github.com/itsnushhday-bit/sentinel/blob/main/Screenshot%202025-09-17%20135351.png?raw=true
+![Sentinel Demo](https://github.com/itsnushhday-bit/sentinel/blob/main/Screenshot%202025-09-17%20135351.png?raw=true)
 
 ## 4. Key Features
 * Securely authenticates with any Google Account using OAuth 2.0.
